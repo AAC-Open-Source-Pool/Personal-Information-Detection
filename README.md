@@ -7,14 +7,14 @@ Personal Information in images is often overlooked, especially when posting to s
 ## Requirements
 |||
 |--|--|
-|[python 3.10.12](https://www.python.org)|<img src="https://imgur.com/5U1Qas4.png" width="130px" height="30px"></a><br>|
-|[flair 0.12.2](https://github.com/flairNLP/flair)|<img src="https://i.imgur.com/4fOVzrO.png" width="130px" height="30px"></a><br>|
-|[streamlit 1.27.1](https://streamlit.io)|<img src="https://i.imgur.com/KUaORTO.png" width="130px" height="30px"></a><br>|
-|[easyocr 1.7.1](https://pypi.org/project/easyocr/)|<img src="https://imgur.com/prDaufp.png" width="130px" height="30px"></a><br>|
-|[matplotlib 3.8.0](https://matplotlib.org)|<img src="https://imgur.com/u5TmBrV.png" width="130px" height="30px"></a><br>|
-|[opencv 4.8.1.78](https://pypi.org/project/opencv-python/)|<img src="https://imgur.com/jEJpm7H.png" width="130px" height="30px"></a><br>|
-|[numpy 1.26.0](https://numpy.org)|<img src="https://imgur.com/bQ6fhnn.png" width="130px" height="30px"></a><br>|
-|[regex 2023.8.8 ](https://docs.python.org/3/library/re.html)|<img src="https://i.imgur.com/xQ8Kvmu.png" width="130px" height="30px"></a><br>|
+|[python 3.10.12](https://www.python.org)|<img src="https://imgur.com/5U1Qas4.png" width="130px" height="25px"></a><br>|
+|[flair 0.12.2](https://github.com/flairNLP/flair)|<img src="https://i.imgur.com/4fOVzrO.png" width="130px" height="25px"></a><br>|
+|[streamlit 1.27.1](https://streamlit.io)|<img src="https://i.imgur.com/KUaORTO.png" width="130px" height="25px"></a><br>|
+|[easyocr 1.7.1](https://pypi.org/project/easyocr/)|<img src="https://imgur.com/prDaufp.png" width="130px" height="25px"></a><br>|
+|[matplotlib 3.8.0](https://matplotlib.org)|<img src="https://imgur.com/u5TmBrV.png" width="130px" height="25px"></a><br>|
+|[opencv 4.8.1.78](https://pypi.org/project/opencv-python/)|<img src="https://imgur.com/jEJpm7H.png" width="130px" height="25px"></a><br>|
+|[numpy 1.26.0](https://numpy.org)|<img src="https://imgur.com/bQ6fhnn.png" width="130px" height="25px"></a><br>|
+|[regex 2023.8.8 ](https://docs.python.org/3/library/re.html)|<img src="https://i.imgur.com/xQ8Kvmu.png" width="130px" height="25px"></a><br>|
 
 ## Installation and usage
 - Clone the repository
