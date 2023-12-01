@@ -1,4 +1,6 @@
-# <p align="center">Personal Information Detection</p>
+<div align="center">
+  <img src="https://imgur.com/pwxJaXT.png">
+</div>
 <p align="center">This project scans for any personal information in images that you wouldn't want out in the internet (like phone numbers, credit card numbers, names, addresses, IP addresses, etc) by using Optical Character Recognition, Natural Language Processing, Regular Expressions and object detection systems.</p>
 
 
