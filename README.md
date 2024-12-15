@@ -12,12 +12,6 @@
 
 ## Introduction 
 Personal Information in images is often overlooked, especially when posting to sites like Instagram where everyone can see the pictures you upload. People seldom check if there is any information in the background of their pictures that might leak personal information on a public site. My project tries to automate this process by checking the image for information that can be harmful if leaked in the public.
-
-## Table of Contents
-- [Introduction](#introduction) <br>
-- [Requirements](#requirements) <br>
-- [How to use](#installation-and-usage) <br>
-- [Contribution](#contribution)
   
 ## Requirements
 |||
